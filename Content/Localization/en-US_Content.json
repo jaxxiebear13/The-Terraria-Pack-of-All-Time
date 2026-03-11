@@ -1,1 +1,8 @@
-
+{
+    "ItemName": {
+        "Wood": "Wood"
+    },
+    "ItemTooltip": {
+        "Wood": "'Allan please add details'"
+    }
+}
